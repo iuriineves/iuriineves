@@ -1,4 +1,4 @@
-<h3>About me</h3>
+<h2>About me</h2>
 <p>
   I'm currently studying Sciences and Technology at my local high school. Right now, I'm 17 years old, and set to finish high school by 2025.
   I can fluently speak Portuguese, my mother tongue, as well as English. Interested in learning more languages in the future!
@@ -6,7 +6,7 @@
   Also a big sucker for music, art, and physics.
 </p>
 
-<h3>How I got into computers</h3>
+<h2>How I got into computers</h2>
 
 <p>
   I've always been quite impatient with achieving my dreams, so I started studying computers at the age of 13. That's where my journey started, 2019.
@@ -15,7 +15,7 @@
   The way computers work for me is almost like magic. However, this magic has always been so intuitive to me that it feels like a necessity to build some of it. I hope anything I do here on GitHub helps you in any way, either it be through one of my repos, or something as simple as a contribution fixing a typo on your favourite npm package!
 </p>
 
-<h3>What I know and what I'm learning</h3>
+<h2>What I know and what I'm learning</h2>
 
 <p>
   As I said above, I've taught myself python, which was my first programming language. Since then, I've thinkered with Java, C#, C++, and currently I'm learning Javascript alongside ReactJS, NextJS, and all things front-end related.
