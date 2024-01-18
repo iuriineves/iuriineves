@@ -1,6 +1,7 @@
-![banner](https://github.com/iuriineves/iuriineves/assets/60155360/1fed1b8e-6d1b-477f-b1be-ea589e050dbc)
+![bannertransparent](https://github.com/iuriineves/iuriineves/assets/60155360/d0438f31-e2d6-4314-9b4c-d8f751aa41b2)
 ## 👤 About me
 I'm currently studying Sciences and Technology at my local high school. Right now, I'm 17 years old,
+
 and set to finish high school by 2025.
 I can fluently speak Portuguese, my mother tongue, as well as English. Interested in learning more languages in the future!
 
