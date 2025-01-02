@@ -1,5 +1,5 @@
 ## 👤 About me
-I'm currently studying Sciences and Technology at my local high school. Right now, I'm 17 years old,
+I'm currently studying Sciences and Technology at my local high school. Right now, I'm 18 years old,
 and set to finish high school by 2025.
 I can fluently speak Portuguese, my mother tongue, as well as English. Interested in learning more languages in the future!
 
