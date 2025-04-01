@@ -9,7 +9,7 @@ Also a big sucker for music, art, and physics.
 
 
 I've always been quite impatient with achieving my dreams, so I started studying computers at the age of 13. That's where my journey started, 2019.
-My mind has always wondered how websites, apps and games were made. To be honest, I was never great at any games my friends and I enjoyed to play, so I guess making them would be the best course of action. I have worked on several small projects, some of which you can see on my profile. Anything I can thinker with is my heaven on earth.
+My mind has always wondered how websites, apps and games were made. To be honest, I was never great at any games me and my friends enjoyed playing, so I guess making them would be the best course of action. I have worked on several small projects, some of which you can see on my profile. Anything I can thinker with is my heaven on earth.
   
 The way computers work for me is almost like magic. However, this magic has always been so intuitive to me that it feels like a necessity to build some of it. I hope anything I do here on GitHub helps you in any way, either it be through one of my repos, or something as simple as a contribution fixing a typo on your favourite npm package!
 
