@@ -1,3 +1,5 @@
+<img width="2800" height="850" alt="imagem" src="https://github.com/user-attachments/assets/10f0e387-c996-419e-991b-7849f9d15c28" />
+
 ## 👤 About me  
 Hello and welcome to my GitHub profile!  
 My name is Iúri Neves, and I’m an 18-year-old computer engineering student at **[STILL WAITING TO KNOW MY UNIVERSITY]**.  
