@@ -5,7 +5,7 @@ Hello and welcome to my GitHub profile!
 My name is Iúri Neves, and I’m an 18-year-old computer engineering student at **[STILL WAITING TO KNOW MY UNIVERSITY]**.  
 I speak two languages fluently: Portuguese and English. I hope you enjoy my work!
 
-Oh, and I love reading—when I’m not too lazy to pick up a book. Feel free to check out my [Goodreads page](https://www.goodreads.com/iuriineves) to see what I’ve been reading lately.
+Oh, and I love reading, when I’m not too lazy to pick up a book. Feel free to check out my [Goodreads page](https://www.goodreads.com/iuriineves) to see what I’ve been reading lately.
 
 ---
 
