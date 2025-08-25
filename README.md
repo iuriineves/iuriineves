@@ -2,7 +2,7 @@
 
 ## 👤 About me  
 Hello and welcome to my GitHub profile!  
-My name is Iúri Neves, and I’m an 18-year-old computer engineering student at **[STILL WAITING TO KNOW MY UNIVERSITY]**.  
+My name is Iúri Neves, and I’m an 18-year-old computer engineering student @ NOVA FCT.  
 I speak two languages fluently: Portuguese and English. I hope you enjoy my work!
 
 Oh, and I love reading, when I’m not too lazy to pick up a book. Feel free to check out my [Goodreads page](https://www.goodreads.com/iuriineves) to see what I’ve been reading lately.
@@ -41,5 +41,5 @@ That’s why I’m here on GitHub!
 My first programming language was Python (shocking, I know), which I taught myself at 13 with the help of the Internet.  
 Since then, I’ve picked up some Java and C++, but I feel most comfortable with JavaScript.  
 
-I'm always looking to expand my skills, which is exactly why I'm studying at **[HOPEFULLY NOVA FCT]**.  
+I'm always looking to expand my skills, which is exactly why I'm studying @ NOVA FCT.  
 Thanks for reading!
