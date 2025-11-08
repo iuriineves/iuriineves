@@ -1,4 +1,4 @@
-<img width="2800" height="850" alt="new banner" src="https://github.com/user-attachments/assets/6c6a5220-8da0-4dff-a89c-5acd5d12c4d0" />
+<img width="2800" height="500" alt="banner" src="https://github.com/user-attachments/assets/8f68c8ea-6ac2-474e-bc91-897ec88bd614" />
 
 ## 👤 About me  
 Hello and welcome to my GitHub profile!  
