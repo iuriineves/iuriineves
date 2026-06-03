@@ -2,7 +2,7 @@
 
 ## 👤 About me  
 Hello and welcome to my GitHub profile!  
-My name is Iúri Neves, and I’m an 18-year-old computer engineering student @ NOVA FCT.  
+My name is Iúri Neves, and I’m an 19-year-old computer engineering student @ NOVA FCT.  
 I speak two languages fluently: Portuguese and English. I hope you enjoy my work!
 
 Oh, and I love reading, when I’m not too lazy to pick up a book. Feel free to check out my [Goodreads page](https://www.goodreads.com/iuriineves) to see what I’ve been reading lately.
@@ -27,7 +27,7 @@ Since then, I’ve:
 - tutored a robotics class at my school  
 - programmed Arduino circuits  
 - built and deployed websites  
-- shipped a [Minecraft mod](https://github.com/iuriineves/sn0wfrogs-capybaras) with over 50k downloads  
+- shipped a [Minecraft mod](https://github.com/iuriineves/sn0wfrogs-capybaras) with almost 100k downloads  
 - designed and launched multiple websites using Next.js  
 - made games using the Godot engine  
 
